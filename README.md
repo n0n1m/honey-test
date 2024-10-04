@@ -7,3 +7,8 @@ npm ci
 npm run build
 node host.cjs
 ```
+or
+```
+npm ci
+npm run preview
+```
